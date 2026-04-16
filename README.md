@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @Mustafasaeed850
-- 👀 I’m interested in being a Software Engineer
-- 🌱 I’m currently learning Python,Mern Stack and Data Science 
-- 📫 How to reach me ... i have a public instagram account and a youtube channel.
-- Instagran account link:
-- https://www.instagram.com/mustafatechbytes/
--Youtube account link:
--www.youtube.com/@MustafaTechBytes
-<!---
-Mustafasaeed850/Mustafasaeed850 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi, I'm Mustafa 👋
+
+Final-year Computer Science student at KIET, based in Karachi, Pakistan.
+
+🐍 **Currently learning:** Python, Flask, SQLite, REST APIs, and web scraping  
+🎯 **Targeting:** Software Engineering / Python internships in Karachi  
+🤖 **Building toward:** Machine Learning engineering over the next 9 months  
+
+### 📂 What I'm working on
+
+- [python-learning-journey](https://github.com/Mustafasaeed850/python-learning-journey) — practice projects and exercises as I build SE fundamentals
+- More repos coming soon: Flask to-do app, weather API, and a web scraper
+
+### 📫 Connect with me
+
+- **LinkedIn:** [linkedin.com/in/mustafa-saeed-277a2837a](https://www.linkedin.com/in/mustafa-saeed-277a2837a/)
+- **Location:** Karachi, Pakistan
