@@ -1,36 +1,43 @@
-# Hi, I'm Mustafa Saeed
+# Mustafa Saeed
 
-Computer Science student focused on Python, backend development, and building toward AI/ML engineering.
+**Python Developer | Aspiring AI/ML Engineer**
+
+I'm a Computer Science student building a foundation in Python, backend development, and applied machine learning. My goal is to turn data and AI models into useful applications with clear documentation and reproducible workflows.
+
+[LinkedIn](https://www.linkedin.com/in/mustafa-saeed-277a2837a/) · [Repositories](https://github.com/Mustafasaeed850?tab=repositories)
 
 ## Current Focus
 
-- Strengthening Python and software engineering fundamentals
-- Building backend projects with Flask, REST APIs, SQL, and web scraping
-- Progressing into data science, machine learning, deep learning, NLP, and MLOps
-- Developing portfolio projects that demonstrate practical problem solving and clean engineering
+- **Python engineering:** strengthen object-oriented programming, problem solving, automation, and reusable code.
+- **Backend development:** build a foundation in Flask, REST APIs, SQL, and data handling.
+- **Applied AI/ML:** progress through data analysis, model training, and evaluation, with an interest in NLP and LLM applications.
+- **MLOps:** learn how to package, deploy, and maintain reproducible machine learning projects.
 
-## Featured Repositories
+## Technical Toolkit
 
-### [python-learning-journey](https://github.com/Mustafasaeed850/python-learning-journey)
-A structured repository for Python practice, backend fundamentals, and future project work as I progress toward AI/ML engineering.
+| Area | Technologies |
+| --- | --- |
+| Language | Python |
+| Backend and data | Flask, REST APIs, SQL, SQLite |
+| Development tools | Git, GitHub |
+| Learning roadmap | NumPy, pandas, scikit-learn, TensorFlow, Docker |
 
-### [git-journey](https://github.com/Mustafasaeed850/git-journey)
-A small practice repository used while learning Git and GitHub workflows.
+## Repository Highlights
 
-## Roadmap
+| Repository | Focus | Status |
+| --- | --- | --- |
+| [python-learning-journey](https://github.com/Mustafasaeed850/python-learning-journey) | Python and backend foundations on the path to AI/ML | Repository setup and learning roadmap; exercises to follow |
+| [git-journey](https://github.com/Mustafasaeed850/git-journey) | Git fundamentals, commits, and branches | Practice archive |
 
-`Python -> Backend Fundamentals -> Data Science -> Machine Learning -> Deep Learning / NLP -> MLOps -> End-to-End AI Projects`
+## What I'm Building Toward
 
-Upcoming portfolio work will include more complete standalone projects with clear documentation, setup instructions, and reproducible code.
+- Data analysis and machine learning projects with documented evaluation.
+- NLP and LLM applications for practical tasks.
+- AI services that connect models to usable applications.
+- Deployment workflows with reproducible environments and clear setup instructions.
 
-## Tech I'm Working With
+## Opportunities & Collaboration
 
-**Languages:** Python  
-**Backend:** Flask, REST APIs  
-**Data:** SQL, SQLite  
-**Tools:** Git, GitHub  
-**Learning next:** NumPy, pandas, scikit-learn, TensorFlow, NLP, Docker, MLOps
+Open to Python development internships, AI/ML learning opportunities, and collaboration on practical projects.
 
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/mustafa-saeed-277a2837a/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mustafa-saeed-277a2837a/).
